@@ -1,4 +1,4 @@
-# Handwriting-Classification-Using-Deep-Learning-and-Machine-Leaning
+# Handwriting Classification Using Deep Learning and Machine Learning
 
 ***This repository contains a project on Handwriting Classification using Machine Learning and Deep Learning techniques. The goal of this project is to accurately classify handwritten characters into their respective classes.***
 <br />
