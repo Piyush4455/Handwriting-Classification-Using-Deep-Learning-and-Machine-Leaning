@@ -6,7 +6,7 @@
 <p>Handwriting recognition is a challenging task in the field of pattern recognition and machine learning. In this project, we explore two different approaches to tackle this problem: K-Nearest Neighbors (KNN) and Convolutional Neural Networks (CNN). Additionally, we combine these two models to create a hybrid/composite model for improved accuracy.</p>
 
 ## Model Pictorial Representation:
-![Pictorial_representation_of_model](./model_plot.png)
+![Pictorial_representation_of_model](model_plot.png)
 
 ## Features
 * Utilizes popular libraries such as pandas, numpy, opencv, matplotlib, sklearn, keras, tensorflow, imutils, seaborn, and more.<br />
